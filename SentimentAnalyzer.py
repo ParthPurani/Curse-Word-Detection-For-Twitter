@@ -2,11 +2,15 @@ import tweepy
 from textblob import TextBlob
 
 # Authentication
-consumer_key= 'aoQUYl98DiYd89rDQFbaiytuI'
-consumer_secret= 'CWrmm7hhar9zPh0LZ2rwF33f4A5wSGjxtD4gLXEzoWXTmei7hj'
+consumer_key= '<enter your consumer key>'
+# don't include "<>" for all keys
+consumer_secret= '<enter your consumer secret>'
+#you need a twitter account to generate keys
+#you can get your consumer & access keys from link below
+# https://apps.twitter.com/app/new
 
-access_token='1378641992-iCSZJiWLyqta33vgcDbz9SWVYm5LieNuuP8xBgj'
-access_token_secret='ELWSe42Ahiz7mdW095hneYpoBwZ0hQlmbwzMGrpJ2oxA4'
+access_token='<enter your access token>'
+access_token_secret='<enter your access token secret>'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
