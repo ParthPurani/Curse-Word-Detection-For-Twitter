@@ -9,11 +9,11 @@ import re
 #nltk.download('punkt')
 
 # Authentication key
-#consumer_key= 'zRJA6MtT0TuhMQzoFpwbWPtjo'
-#consumer_secret= 'y3ugtakLvC1mShJCef2KZnNof7io0SXWKrTW2ZQHiLvhMilPg9'
+#consumer_key= 'XXX'
+#consumer_secret= 'XXX'
 #
-#access_token='1371632089-28V48w18t6fvOx3rRAqFasX9o3XvQ7bh4Zo4r39'
-#access_token_secret='XL0kgbuzzuFaZlEcXCWj5ajiM5adHmjBdObhuTrvBa70a'
+#access_token='XXX'
+#access_token_secret='XXX'
 
 #read the file
 with open('creds-twitter','rb') as f:
