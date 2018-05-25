@@ -1,6 +1,8 @@
-EDC
+EDC(Explicit Content Detection)
 ===========================================================================================================================================
-This a super simple python script which uses Tweepy API provided by Twitter to engage with users twitter account.In here we can write tweet and post it directly from command line , all you need to do is..
+This a super simple python script which uses Tweepy API provided by Twitter to engage with users twitter account.In here we can write tweet and post it directly from command line, the tweet you write is checked for explicit word and will return if any explicit content is present  in case there is no explicit content in the tweet then the tweet will be updated to the users timeline. 
+-------------------------------------------------------------------------------------------------------------------------------------------
+All you need to do is..
 
 1.exexute this command "python ECD With Twitter.py"
 
