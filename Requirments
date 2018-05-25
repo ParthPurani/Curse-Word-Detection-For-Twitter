@@ -1,0 +1,7 @@
+Below Libraries are required for this script to run
+
+1. tweepy             ##access twitter API
+2. profanityfilter    ##check for bad  words
+3. json               ##for getting json request
+4. gTTS               ##this is for audio file generation from tweet
+5. textblob           ##this is for sentiment analysis
