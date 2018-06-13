@@ -4,7 +4,7 @@ This a super simple python script which uses Tweepy API provided by Twitter to e
 -------------------------------------------------------------------------------------------------------------------------------------------
 All you need to do is..
 
-1.exexute this command "python ECD With Twitter.py"
+1.execute this command "python ECD With Twitter.py"
 
 2.this command will run the script and give you an URL to get access token, copy that access token and paste that URL into address bar and hit enter.
 
